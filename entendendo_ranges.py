@@ -34,7 +34,7 @@ for num in range(1, 10, 2):
     print(num)
 
 # Forma 4 (inverso)
-range(valor_de_inicio, valor_de_parada, passo)  
+range(valor_de_inicio, valor_de_parada, passo)
 OBS: valor de parada não inclusive (início específicado pelo usuário e passo de 1 em 1)
 # Exemplo de forma 4:
 for num in range(10, 0, -1):
